@@ -7,7 +7,7 @@ import {
   signInWithEmailAndPassword,
   updateProfile
 } from "firebase/auth"; // Import 'createUserWithEmailAndPassword' from firebase.auth
-import { Netflix_background } from "../utils/constants";
+import { background } from "../utils/constants";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
 
@@ -83,7 +83,7 @@ const Login = () => {
     <div>
       <Header />
       <div className="absolute inset-0">
-        <img className="w-full h-full" src={Netflix_background} alt="netflix-signin-backgraound"></img>
+        <img className="w-full h-full" src={background} alt="netflix-signin-backgraound"></img>
       </div>
       <form
         onSubmit={(e) => e.preventDefault()}
