@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "cinema-ai",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../../public"
+		}
+	],
+	"settings": {}
+}
