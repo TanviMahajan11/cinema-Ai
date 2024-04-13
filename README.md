@@ -1,5 +1,5 @@
 **Cinema-AI**
-CinemaAI is a dynamic and responsive web application designed to provide users an interface for browsing movies with TMDB API.
+is a dynamic and responsive web application designed to provide users an interface for browsing movies with TMDB API.
 It provides features like movie browsing, trailer watching, and personalized movie recommendations using OpenAI's GPT 3.5 API.
 
 **Features**
