@@ -14,3 +14,5 @@ It provides features like movie browsing, trailer watching, and personalized mov
 
 Tech Stack:
 JavaScript, React.js, Redux, TailwindCSS, Google Firebase 
+
+Website Link : https://cinema-ai-6fb9b.web.app/
