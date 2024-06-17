@@ -16,3 +16,6 @@ Tech Stack:
 JavaScript, React.js, Redux, TailwindCSS, Google Firebase 
 
 Website Link : https://cinema-ai-6fb9b.web.app/
+
+Login Page 
+<img width="1433" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/84d1dcec-4e98-4fba-912f-67b5f5d68513">
