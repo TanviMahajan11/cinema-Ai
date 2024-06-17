@@ -17,5 +17,19 @@ JavaScript, React.js, Redux, TailwindCSS, Google Firebase
 
 Website Link : https://cinema-ai-6fb9b.web.app/
 
+Website Screenshots : 
+
 Login Page 
 <img width="1433" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/84d1dcec-4e98-4fba-912f-67b5f5d68513">
+
+Sign Up Page 
+<img width="1437" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/1e54291a-a81d-4780-8405-920b8bf22de7">
+
+Home Page 
+<img width="1405" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/ce4bba94-9818-4ab5-be11-42c53e1b5bf2">
+<img width="1439" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/370c879d-d492-4eca-ba4b-681ee90a95da">
+<img width="1424" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/894d15d8-7419-4a61-bb13-f105695fdf41">
+
+
+
+
