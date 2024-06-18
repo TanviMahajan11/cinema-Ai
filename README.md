@@ -26,8 +26,8 @@ Sign Up Page : The sign-up page allows users to create an account by providing t
 <img width="1437" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/1e54291a-a81d-4780-8405-920b8bf22de7">
 
 Home Page : On the home page, users will be able to view the latest movie trailers, showcasing the newest releases. Additionally, users can browse movies categorized into various topics, such as upcoming movies, top-rated movies, and now playing movies.
-<img width="1405" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/ce4bba94-9818-4ab5-be11-42c53e1b5bf2">
-<img width="1439" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/370c879d-d492-4eca-ba4b-681ee90a95da">
+[<img width="1405" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/ce4bba94-9818-4ab5-be11-42c53e1b5bf2">
+](http://localhost:1234/)<img width="1439" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/370c879d-d492-4eca-ba4b-681ee90a95da">
 
 Search Page :  Users can enter their search queries to receive a curated list of movie suggestions with the help of OpenAI's GPT 3.5 API
 <img width="1424" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/894d15d8-7419-4a61-bb13-f105695fdf41">
