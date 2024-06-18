@@ -28,6 +28,8 @@ Sign Up Page
 Home Page 
 <img width="1405" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/ce4bba94-9818-4ab5-be11-42c53e1b5bf2">
 <img width="1439" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/370c879d-d492-4eca-ba4b-681ee90a95da">
+
+Search Page : 
 <img width="1424" alt="image" src="https://github.com/TanviMahajan11/cinema-Ai/assets/67593017/894d15d8-7419-4a61-bb13-f105695fdf41">
 
 
